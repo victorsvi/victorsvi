@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I have a degree in Computer Engineering from La Salle University at Canoas, Brazil (2020).
+I’m currently working on Sispro Software Empresarial in a enterprise managment software, mainly in the accounting module. We use the Outsystems Agile Platform.
+I like to develop hardware and low level software to interface hardware components. I also work with software engineering ad high level programming.
+
+The repositories bellow are projects from assignemts from my degree and personal projects.
+
 <!--
 **victorsvi/victorsvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
