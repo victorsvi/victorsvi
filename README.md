@@ -2,7 +2,7 @@
 
 - I have a degree in Computer Engineering from La Salle University at Canoas, Brazil (2020).
 - I’m currently working on Sispro Software Empresarial in a enterprise managment software, mainly in the accounting module. We use the Outsystems Agile Platform.
-- I like to develop hardware and low level software to interface hardware components. I also work with software engineering an high level programming.
+- I like to develop hardware and low level software to interface hardware components. I also work with software engineering with a high level programming.
 
 My repositories are projects from my degree assignemts and personal projects.
 
